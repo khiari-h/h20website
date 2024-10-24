@@ -1,0 +1,51 @@
+[
+    {
+      "title": "Création de sites web",
+      "description": "Sites vitrines et e-commerce.",
+      "details": "Nous concevons des sites web adaptés aux besoins des entreprises.",
+      "color": "from-blue-500 to-blue-400"
+    },
+    {
+      "title": "SEO",
+      "description": "Optimisation pour moteurs de recherche.",
+      "details": "Améliorez votre visibilité sur Google.",
+      "color": "from-green-500 to-green-400"
+    },
+    {
+      "title": "Publicité en ligne",
+      "description": "Gestion des campagnes Google Ads.",
+      "details": "Maximisez vos retours sur investissement.",
+      "color": "from-red-500 to-red-400"
+    },
+    {
+      "title": "Consulting digital",
+      "description": "Conseils en stratégie digitale.",
+      "details": "Accélérez la transformation digitale de votre entreprise.",
+      "color": "from-purple-500 to-purple-400"
+    },
+    {
+      "title": "Formation en ligne",
+      "description": "Formations et coaching sur mesure.",
+      "details": "Apprenez à votre rythme avec des formations sur mesure.",
+      "color": "from-yellow-500 to-yellow-400"
+    },
+    {
+      "title": "Applications sur mesure",
+      "description": "Développement d’applications.",
+      "details": "Nous développons des applications web et mobiles sur mesure.",
+      "color": "from-pink-500 to-pink-400"
+    },
+    {
+      "title": "Automation des processus",
+      "description": "Automatisation des tâches et des processus.",
+      "details": "Optimisez vos processus internes grâce à nos solutions d’automatisation.",
+      "color": "from-indigo-500 to-indigo-400"
+    },
+    {
+      "title": "Gestion des réseaux sociaux",
+      "description": "Création de contenu et gestion des réseaux sociaux.",
+      "details": "Nous gérons vos plateformes sociales pour améliorer votre visibilité et engagement en ligne.",
+      "color": "from-teal-500 to-teal-400"
+    }
+  ]
+  
