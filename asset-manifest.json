@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/h20website/static/css/main.8d83e8ab.css",
+    "main.js": "/h20website/static/js/main.e8317e7d.js",
+    "static/js/453.d0ecb4ce.chunk.js": "/h20website/static/js/453.d0ecb4ce.chunk.js",
+    "index.html": "/h20website/index.html",
+    "main.8d83e8ab.css.map": "/h20website/static/css/main.8d83e8ab.css.map",
+    "main.e8317e7d.js.map": "/h20website/static/js/main.e8317e7d.js.map",
+    "453.d0ecb4ce.chunk.js.map": "/h20website/static/js/453.d0ecb4ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d83e8ab.css",
+    "static/js/main.e8317e7d.js"
+  ]
+}
